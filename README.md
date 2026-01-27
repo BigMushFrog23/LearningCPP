@@ -3,6 +3,7 @@
 Welcome to my C++ study repository!
 
 This project serves as a living document of my progress as I master the fundamentals and advanced concepts of C++.
+
 This is also proof of my motivation to join BUas, in their Creative Media and Game Technologies Programming Track in the year 2027-2028.
 
 I am documenting my entire learning path here through code examples, notes, and basic projects. This Journey started on **December 19th 2026**. Whereas this repository has been created on **January 25th 2026**.
