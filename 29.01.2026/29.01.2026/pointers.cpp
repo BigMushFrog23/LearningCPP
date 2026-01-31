@@ -2,7 +2,6 @@
 
 using namespace std;
 
-/*
 void pp(int& i)
 {
 	cout << &i << " " << i << " " << sizeof(i) << "\n";
@@ -10,6 +9,7 @@ void pp(int& i)
 
 int main(int argc, char* argv[])
 {
+
 	int	  a	= 10;
 	int	  b	= 25;
 	int* pA = &a;
@@ -22,6 +22,8 @@ int main(int argc, char* argv[])
 	pp(a);
 	pp(b);
 	pp(*pA);
+
+	/*
 	
 	int arr[10] = {};
 
@@ -29,7 +31,7 @@ int main(int argc, char* argv[])
 	{
 		pp(arr[i]);
 	}
+	*/
 
 	return 0;
 }
-*/
